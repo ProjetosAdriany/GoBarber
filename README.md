@@ -1,6 +1,7 @@
 ## :information_source: Go Barber
 Projeto desenvolvido durante o bootcamp Rocketseat (Ainda em Andamento) :wink:
  
+ 
 ## :rocket: Tecnologias 
  
 * JavaScript
