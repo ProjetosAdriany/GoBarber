@@ -16,6 +16,7 @@ Projeto desenvolvido durante o bootcamp Rocketseat (Ainda em Andamento) :wink:
 * Date-fns
 * Multer
 * TypeORM
+* Jest
 
 
 ## Autor
