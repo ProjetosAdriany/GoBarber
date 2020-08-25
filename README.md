@@ -4,7 +4,7 @@ Projeto desenvolvido durante o bootcamp Rocketseat (Ainda em Andamento) :wink:
  
 ## :rocket: Tecnologias 
  
-* JavaScript
+* TypeScript
 * NodeJS
 * ExpressJS
 * Nodemon
